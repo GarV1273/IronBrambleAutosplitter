@@ -1,9 +1,9 @@
 // Autosplitter for the Iron Bramble demo based off the Rusted Moss autosplitter
 
 state("IronBramble") {
-    int room: 0x2C46E78;
-    int menu1: 0x2C5A648;
-    int menu2: 0x2C5A64C;
+    int room: 0x2C4BEB8;
+    int menu1: 0x2C5F688;
+    int menu2: 0x2C5F68C;
 }
 
 startup {
